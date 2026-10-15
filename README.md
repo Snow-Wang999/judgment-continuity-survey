@@ -33,15 +33,16 @@ All quantitative findings below are derived from the synthesis within this revie
 5. **生产-评估鸿沟**：32.4%的benchmark表现无法迁移到生产环境。
 
 ## 📂 Repository Structure｜文件说明
-
+```
 judgment-continuity-survey/
 ├── survey-paper/
-│   ├── 综述草稿 - v2.0.md        # 综述正文草稿
-│   └── 论文阅读清单.md         # 69 篇核心参考文献
-├── AI-CONTRIBUTION.md          # 人机协作贡献声明
-├── AI-PERMISSION-MECHANISM.md  # 人机协作权限机制说明
+│   ├── 综述草稿‑v2.0.md        # 综述正文草稿
+│   └── 论文阅读清单.md         # 78 篇核心参考文献
+├── AI‑CONTRIBUTION.md          # 人机协作贡献声明
+├── AI‑PERMISSION‑MECHANISM.md  # 人机协作权限机制说明
 ├── LICENSE.md                  # CC BY 4.0 许可证全文
 └── README.md                   # 项目主页（本文件）
+```
 
 ## 📖 How to read this repository
 1. Read the full draft paper: `survey-paper/综述草稿-v2.0.md`
