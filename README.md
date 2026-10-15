@@ -7,7 +7,8 @@
 ## 📋 One-sentence Summary
 This open iterative review systematically organizes evaluation benchmarks for AI Agent memory systems and proposes a **Memory-Retrieval-Continuity three-dimensional analytical framework**. It identifies the "snapshot assumption" prevailing in the field: existing evaluations mainly measure memory storage and retrieval, while lacking systematic assessment of **cross-temporal judgment continuity**.
 
-> 一句话摘要：本开放迭代综述系统梳理AI Agent记忆系统现有评估基准，提出**Memory-Retrieval-Continuity三维分析框架**；指出领域普遍存在「快照假设」：现有评测侧重记忆存储与检索，缺少对**跨时间判断连续性（judgment continuity）**的系统评估。
+> 一句话摘要：
+> - 本开放迭代综述系统梳理AI Agent记忆系统现有评估基准，提出**Memory-Retrieval-Continuity三维分析框架**；指出领域普遍存在「快照假设」：现有评测侧重记忆存储与检索，缺少对**跨时间判断连续性（judgment continuity）**的系统评估。
 
 ## 🔍 Project Overview｜项目概述
 本项目系统梳理了AI Agent记忆系统的评估基准体系，核心问题是：现有记忆评估框架测了什么？没测什么？“记忆-行动”（memory for action）这个维度有没有被系统地纳入评估体系？
