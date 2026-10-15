@@ -1,8 +1,8 @@
 # judgment-continuity-survey
-> **Survey on AI Agent Memory Benchmarks: A Judgment Continuity Perspective**
-> AI Agent记忆系统评估基准体系综述 — 判断连续性视角
-> Status: Work-in-progress open iterative review, not formally peer-reviewed or published.
-> 状态：开放迭代综述，持续修订，尚未经过同行评审，未正式发表。
+> - **Survey on AI Agent Memory Benchmarks: A Judgment Continuity Perspective**
+> - AI Agent记忆系统评估基准体系综述 — 判断连续性视角
+> - Status: Work-in-progress open iterative review, not formally peer-reviewed or published.
+> - 状态：开放迭代综述，持续修订，尚未经过同行评审，未正式发表。
 
 ## 📋 One-sentence Summary
 This open iterative review systematically organizes evaluation benchmarks for AI Agent memory systems and proposes a **Memory-Retrieval-Continuity three-dimensional analytical framework**. It identifies the "snapshot assumption" prevailing in the field: existing evaluations mainly measure memory storage and retrieval, while lacking systematic assessment of **cross-temporal judgment continuity**.
