@@ -51,4 +51,12 @@ Survey on AI Agent Memory Benchmarks: A Judgment Continuity Perspective
 
 ---
 
+## 人机协作说明
+
+本研究采用人机协作模式，详见：
+- [AI贡献声明](./AI-CONTRIBUTION.md)
+- [AI允许机制说明](./AI-PERMISSION-MECHANISM.md)
+
+---
+
 *最后更新：2026-10-15*
